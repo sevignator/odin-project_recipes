@@ -1,1 +1,2 @@
-# odin-project_recipes
+# Description
+Recipes project from the Odin Project curriculum.
